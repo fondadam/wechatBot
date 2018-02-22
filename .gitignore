@@ -1,0 +1,7 @@
+node_modules/*
+logs/*
+.idea
+node_modules
+demo/*
+demo.**
+demo.wechaty.json
